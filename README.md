@@ -4,8 +4,7 @@ A comparative study of five classical machine learning models for classifying br
 
 ## Dataset
 - 7,023 grayscale axial MRI slices (5,712 training / 1,311 testing)
-- Sources: [figshare brain tumor dataset](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) and [Kaggle brain tumor classification (MRI)](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
-- Also available on [Hugging Face](https://huggingface.co/datasets/Cayanaaa/BrainTumorDatasets)
+Available on [Hugging Face](https://huggingface.co/datasets/Cayanaaa/BrainTumorDatasets)
 - The dataset is not included in this repository.
 
 ## Preprocessing
